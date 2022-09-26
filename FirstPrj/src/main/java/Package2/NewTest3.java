@@ -35,7 +35,7 @@ public void verifySearchButton() {
 
     driver.get("https://www.amazon.ca/");
 
-    driver.findElement(By.id("twotabsearchtextbox")).sendKeys("Table");
+    //driver.findElement(By.id("twotabsearchtextbox")).sendKeys("Table");
 
 }
 }
